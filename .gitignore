@@ -1,0 +1,10 @@
+obj/
+bin/
+*.o
+*.out
+test_output/
+*.s
+*.ll
+*.bin
+.DS_Store
+.vscode/
