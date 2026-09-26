@@ -8,3 +8,6 @@ test_output/
 *.bin
 .DS_Store
 .vscode/
+!labs/lab1_prework/ir/*.ll
+!labs/lab1_prework/asm/*.s
+build/
